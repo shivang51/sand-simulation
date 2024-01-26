@@ -1,0 +1,6 @@
+-xc++
+
+-Isand_simulation/include
+
+-Iexternal/raylib/include
+-Iexternal/raylib/src
